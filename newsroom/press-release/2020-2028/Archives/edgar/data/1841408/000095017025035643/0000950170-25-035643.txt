@@ -1,0 +1,172 @@
+<SEC-DOCUMENT>0000950170-25-035643.txt : 20250307
+<SEC-HEADER>0000950170-25-035643.hdr.sgml : 20250307
+<ACCEPTANCE-DATETIME>20250307165915
+ACCESSION NUMBER:		0000950170-25-035643
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20250305
+FILED AS OF DATE:		20250307
+DATE AS OF CHANGE:		20250307
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Wilk Jason
+		CENTRAL INDEX KEY:			0001867755
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40161
+		FILM NUMBER:		25720959
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O DAVE INC.
+		STREET 2:		1265 SOUTH COCHRAN AVENUE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90019
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Dave Inc./DE
+		CENTRAL INDEX KEY:			0001841408
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1265 SOUTH COCHRAN AVENUE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90019
+		BUSINESS PHONE:		8448573283
+
+	MAIL ADDRESS:	
+		STREET 1:		1265 SOUTH COCHRAN AVENUE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90019
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VPC Impact Acquisition Holdings III, Inc.
+		DATE OF NAME CHANGE:	20210120
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0508</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2025-03-05</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001841408</issuerCik>
+        <issuerName>Dave Inc./DE</issuerName>
+        <issuerTradingSymbol>DAVE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001867755</rptOwnerCik>
+            <rptOwnerName>Wilk Jason</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O DAVE INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>1265 SOUTH COCHRAN AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90019</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Chief Executive Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <aff10b5One>false</aff10b5One>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2025-03-05</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>72540</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>268922</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>47882</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Reflects the number of performance-based restricted stock units (&quot;PSUs&quot;) earned, as a result of the Compensation Committee's certification to the achievement of performance for the period from January 1, 2024 to December 31, 2024, under the terms of a PSU award granted on April 17, 2024. These shares will vest on June 1, 2027, subject to the Reporting Person's continued service through such vesting date.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Joan Aristei as Attorney-in-Fact for Jason Wilk</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

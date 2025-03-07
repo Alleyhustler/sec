@@ -1,0 +1,350 @@
+<SEC-DOCUMENT>0001104659-25-021787.txt : 20250307
+<SEC-HEADER>0001104659-25-021787.hdr.sgml : 20250307
+<ACCEPTANCE-DATETIME>20250307165829
+ACCESSION NUMBER:		0001104659-25-021787
+CONFORMED SUBMISSION TYPE:	F-X/A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250307
+DATE AS OF CHANGE:		20250307
+EFFECTIVENESS DATE:		20250307
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FAIRFAX FINANCIAL HOLDINGS LTD/ CAN
+		CENTRAL INDEX KEY:			0000915191
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				101728897
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		F-X/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	001-31556
+		FILM NUMBER:		25720943
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FAIRFAX FINANCIAL HOLDINGS LTD
+		STREET 2:		95 WELLINGTON ST WEST STE 800
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2N7
+		BUSINESS PHONE:		4163674941
+
+	MAIL ADDRESS:	
+		STREET 1:		FAIRFAX FINANCIAL HOLDINGS LTD
+		STREET 2:		95 WELLINGTON ST WEST STE 800
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2N7
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FAIRFAX FINANCIAL HOLDINGS LTD
+		DATE OF NAME CHANGE:	19931122
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FAIRFAX FINANCIAL HOLDINGS LTD/ CAN
+		CENTRAL INDEX KEY:			0000915191
+		STANDARD INDUSTRIAL CLASSIFICATION:	FIRE, MARINE & CASUALTY INSURANCE [6331]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				101728897
+		STATE OF INCORPORATION:			Z4
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		F-X/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		FAIRFAX FINANCIAL HOLDINGS LTD
+		STREET 2:		95 WELLINGTON ST WEST STE 800
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2N7
+		BUSINESS PHONE:		4163674941
+
+	MAIL ADDRESS:	
+		STREET 1:		FAIRFAX FINANCIAL HOLDINGS LTD
+		STREET 2:		95 WELLINGTON ST WEST STE 800
+		CITY:			TORONTO
+		STATE:			A6
+		ZIP:			M5J 2N7
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FAIRFAX FINANCIAL HOLDINGS LTD
+		DATE OF NAME CHANGE:	19931122
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>F-X/A
+<SEQUENCE>1
+<FILENAME>tm251172d6_fxa.htm
+<DESCRIPTION>FORM F-X/A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="margin: 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="margin: 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1in"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Washington, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 18pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM&nbsp;F-X/A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>APPOINTMENT OF AGENT FOR SERVICE OF PROCESS
+AND UNDERTAKING</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in; text-align: left">A.</TD><TD STYLE="text-align: justify">Name of issuer or person
+                                            filing (the &ldquo;Filer&rdquo;): <B>Fairfax Financial Holdings Limited</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">B.</FONT></TD><TD STYLE="text-align: justify"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">(1)&nbsp;This
+                                            is:<BR>
+                                            </FONT><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT><FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;&nbsp;
+                                            </FONT>an original filing for the Filer<BR>
+                                            <FONT STYLE="font-family: Wingdings"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT><FONT STYLE="font-size: 10pt">&nbsp;&nbsp;&nbsp;
+                                            </FONT>an amended filing for the Filer</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 1in"></TD><TD STYLE="width: 0.25in; text-align: left">(2)</TD><TD STYLE="text-align: left">A filer may also file the Form F-X in paper under a hardship exemption provided by Regulation S-T Rule 201 or 202. When submitting the
+Form F-X in paper under a hardship exemption, a filer must provide the legend required by Regulation S-T Rule 201(a)(2) or 202(c) on the
+cover page of the Form F-X.</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in; text-align: left">C.</TD><TD STYLE="text-align: justify">Identify the filing
+                                            in conjunction with which this Form&nbsp;is being filed:</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 45%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name of Registrant:</FONT></TD>
+    <TD STYLE="width: 2%">&nbsp;</TD>
+    <TD STYLE="width: 53%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Fairfax Financial Holdings Limited</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Form&nbsp;Type:</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Form 40-F</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">File Number (if known):</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>001-31556</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filed by:</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Fairfax Financial Holdings Limited</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Date Filed (if filed concurrently, so indicate):</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>March 7, 2025 (filed concurrently)</B></FONT></TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0.75in; text-align: justify; margin-top: 0pt; margin-bottom: 0pt">D. The Filer is incorporated or organized under the laws of <B>Canada</B>
+and has its principal place of business at <B>95 Wellington Street West, Suite 800, Toronto, Ontario M5J 2N7, Canada, (416) 367-4941</B>.</B></P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; text-indent: 0.75in; text-align: justify; margin-top: 0pt; margin-bottom: 0pt">E.
+The Filer designates and appoints <B>Fairfax (US) Inc.</B> (the &ldquo;Agent&rdquo;),
+located at <B>401 East Corporate Drive, Suite 200, Lewisville, Texas 75057, (972) 318-6100</B>, as the agent of the Filer upon whom may
+be served any process, pleadings, subpoenas, or other papers in:</P>
+
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in; text-align: left">(a)</TD><TD STYLE="text-align: justify">any investigation
+                                            or administrative proceeding conducted by the Commission; and</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0; width: 100%"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0.75in"></TD><TD STYLE="width: 0.25in; text-align: left">(b)</TD><TD STYLE="text-align: left">any civil suit or action brought against the Filer or to which the
+Filer has been joined as defendant or respondent, in any appropriate court in any place subject to the jurisdiction of any state or of
+the United States, or of any of its territories or possessions, or of the District of Columbia, where the investigation, proceeding or
+cause of action arises out of or relates to or concerns: (i) any offering made or purported to be made in connection with the securities
+registered or qualified by the Filer on Form 40-F on March 7, 2025 or any purchases or sales of any security in connection therewith;
+(ii) the securities in relation to which the obligation to file an annual report on Form 40-F arises, or any purchases or sales of such
+securities; (iii) any tender offer for the securities of a Canadian issuer with respect to which filings are made by the Filer with the
+Commission on Schedule 13E-4F, 14D-1F or 14D-9F; or (iv) the securities in relation to which the Filer acts as trustee pursuant to Rule
+10a-5 under the Trust Indenture Act of 1939. The Filer stipulates and agrees that any such civil suit or action or administrative proceeding
+may be commenced by the service of process upon, and that service of an administrative subpoena shall be effected by service upon such
+agent for service of process, and that the service as aforesaid shall be taken and held in all courts and administrative tribunals to
+be valid and binding as if personal service thereof had been made.</TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">F. The Filer stipulates and agrees to appoint a
+successor agent for service of process and file an amended Form&nbsp;F-X if the Filer discharges the Agent or the Agent is unwilling or
+unable to accept service on behalf of the Filer at any time until six years have elapsed from the date the issuer of the securities to
+which such Forms and Schedules relate has ceased reporting under the Exchange Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Filer further undertakes to advise the Commission
+promptly of any change to the Agent&rsquo;s name or address during the applicable period by amendment of this form, referencing the file
+number of the relevant form in conjunction with which the amendment is being filed.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">G. The Filer undertakes to make available, in person
+or by telephone, representatives to respond to inquiries made by the Commission staff, and to furnish promptly, when requested to do so
+by the Commission staff, information relating to the Form&nbsp;40-F; the securities to which the Form&nbsp;40-F relates; and the transactions
+in such securities.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="break-before: page; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">The Filer certifies that it has duly caused this power of attorney,
+consent, stipulation and agreement to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Toronto, Province
+of Ontario, Canada, this 7<SUP>th</SUP> day of March, 2025.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Filer:</FONT></TD>
+    <TD COLSPAN="3"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Fairfax Financial Holdings Li<B>mited</B></B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid">/s/ Derek Bulas</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="width: 42%">Derek Bulas</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD>Vice President, Chief Legal Officer and Corporate Secretary</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">This statement has been signed by the following
+person in the capacity and on the date indicated:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt"><B>Fairfax (US) Inc.</B></FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">as agent for service of process</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">By:</FONT></TD>
+    <TD COLSPAN="2" STYLE="border-bottom: black 1pt solid">/s/ Sonja Lundy</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%">&nbsp;</TD>
+    <TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Name:</FONT></TD>
+    <TD STYLE="width: 42%">Sonja Lundy</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Title:</FONT></TD>
+    <TD>President</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3"><FONT STYLE="font-family: Times New Roman, Times, Serif; font-size: 10pt">Dated: March 7, 2025</FONT></TD></TR>
+  <TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="3">&nbsp;</TD></TR>
+  </TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

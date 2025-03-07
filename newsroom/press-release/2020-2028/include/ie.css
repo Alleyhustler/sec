@@ -1,0 +1,580 @@
+BODY {
+	background : #FFFFFF;
+	margin : 0 0;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	color : #454545;
+}
+
+H1 {
+	color: #3B4FAE;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 12pt;
+	font-weight : bold;
+}
+
+H2 {
+	color: #5D6FC7;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+	font-weight : bold;
+}
+
+h3 {
+	color: #454545;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+	font-weight : bold;
+}
+
+h4 {
+	color: #1E2A63;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+	font-weight : normal;
+}
+
+h5 {
+	color: #1E2A63;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+	font-weight : normal;
+	font-style: italic;
+}
+
+H6 {
+	color: #1E2A63;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	font-weight : normal;
+}
+
+CODE {
+	color: #919191;
+	font-family : Courier;
+	font-weight : normal;
+	font-size : 7pt.;
+}
+
+
+
+PRE {
+	background : #FFFFFF;
+	margin : 0 0;
+	font-family : courier;
+	font-size : 8pt;
+	color : #454545;
+}
+
+
+B.blue {
+	color: #3B4FAE;
+	font-weight : bold;
+}
+
+
+.small {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+}
+
+th {
+	font-size : 10pt; 
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	vertical-align: bottom;
+	text-align: center;
+}
+
+.center {text-align: center;}
+
+.right {text-align: right;}
+
+.em2 {margin-left: 2em;}
+.em4 {margin-left: 4em;}
+.em6 {margin-left: 6em;}
+.em8 {margin-left: 8em;}
+
+.boxalert10 {
+	font-size: 10pt;
+	border: thin solid white;
+	padding: 0.5em;
+	background: #EEEEEE;
+}
+
+.margin-0 {
+margin: 0;
+}
+
+.spacing-9 {
+	margin-bottom: 9px;
+}
+		 
+/* default table */
+/* needed this for some old CSS compatibility issues */
+TABLE {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+}
+TD {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+P {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+OL {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+UL {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+LI {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+
+/* default link properties */
+/* old blue Link color 3B4FAE */
+A:Link {
+	color : #BF0023;
+	text-decoration: underline;
+}
+A:Visited {
+	color : #680013;
+	text-decoration: underline;
+}
+A:Active {
+	color : #680013;
+	text-decoration: underline;
+}
+A:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+}
+/* removing the general A declaration to prevent <a name> elements from displaying as a link; not sure why this was originally included; rjr 9/8/06 */
+
+/* A {
+	color : #BF0023;
+	text-decoration: none;
+} */
+
+
+
+/* slightly gray/off-white link, underline on hover */
+/* used for white/gray text in blue areas */
+.gray A:Link {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size :8pt;
+	color : #E6E6E6;
+	text-decoration: None;
+  }
+.gray A:Visited {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size :8pt;
+	color : #E6E6E6;
+	text-decoration: None;
+  }
+.gray A:Hover  {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	color : #E6E6E6;
+	text-decoration: underline;
+ }
+.gray A {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size :8pt;
+	color : #E6E6E6;
+	text-decoration: None;
+  }
+.gray {
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	color : #E6E6E6;
+}
+	
+		 
+/* red link with underline on hover */
+/* used for all "more..." links */
+A.more:Link {
+	color : #BF0023;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+    }
+A.more:Visited {
+	color : #BF0023;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+    }
+A.more:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+	}
+A.more {
+	color : #BF0023;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+    }
+	
+/* dark gray text with blue hover */
+/* used on sidebar for subcategory links */
+
+.navsub A:Link {
+	color : #4D4D4D;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+}
+.navsub A:Visited {
+	color : #4D4D4D;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+}
+.navsub A:Hover  {
+	color : blue;
+	text-decoration: underline;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+}
+.navsub A {
+	color : #4D4D4D;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+}
+
+
+
+/* dark gray text with red hover */
+/* used on sidebar for main links */
+A.nav:Link  {
+		color : #4D4D4D;
+		text-decoration: none;
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 8pt;
+  }
+A.nav:Visited  {
+		color : #4D4D4D;
+		text-decoration: none;
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 8pt;
+  }
+A.nav:Hover  { 
+		color : #BF0023;
+		text-decoration: underline; 
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 8pt;
+		}
+A.nav  {
+		color : #4D4D4D;
+		text-decoration: none;
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 8pt;
+  }
+
+
+
+/* red link with red underline on hover */
+/* used for Hot Topics on sidebar */
+.hot A:Link {
+	color : #BF0023;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+    }
+.hot A:Visited {
+	color : #BF0023;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+    }
+.hot A:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	}
+.hot A {
+	color : #BF0023;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+    }
+
+	
+	
+/* blue link with red underline on hover */
+/* used for 'Download Forms' and 'Contact Us' on sidebar */
+.navbot A:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+	}	
+.navbot A {
+	color : blue;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 7pt;
+    }
+	
+	
+/* dark blue/red link, underline on hover */
+/* used on footer */
+.footer A:Link {
+	color : #3B4FAE;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+    }
+.footer A:Visited {
+	color : #3B4FAE;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+    }
+.footer A:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+	}		
+.footer A {
+	color : #3B4FAE;
+	text-decoration: None;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 8pt;
+    }
+
+	
+	
+/* red link, underline on hover, similar to default links */
+/* used on menu-level pages as main category links */
+A.mainCat:Link {
+	color : #BF0023;
+	text-decoration: none;
+}
+A.mainCat:Visited {
+	color : #BF0023;
+	text-decoration: none;
+}
+A.mainCat:Active {
+	color : #BF0023;
+	text-decoration: underline;
+}
+A.mainCat:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+}
+A.mainCat {
+	color : #BF0023;
+	text-decoration: none;
+}
+	
+	
+			
+/* darker gray/red link, underline on hover */
+/* used on menu-level pages as subcategory links */
+A.subCat:Link {
+	color : #737373;
+	text-decoration: None;
+	font-size : 8pt;
+  }
+A.subCat:Visited {
+	color : #737373;
+	text-decoration: None;
+	font-size : 8pt;
+  }
+A.subCat:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+	font-size : 8pt;
+}		
+A.subCat {
+	color : #737373;
+	text-decoration: None;
+	font-size : 8pt;
+  }
+
+/* darker gray/red link, underline on hover */
+/* same as subCat except 9 point instead of 8 */
+A.subCat9:Link {
+	color : #737373;
+	text-decoration: None;
+	font-size : 9pt;
+  }
+A.subCat9:Visited {
+	color : #737373;
+	text-decoration: None;
+	font-size : 9pt;
+  }
+A.subCat9:Hover  {
+	color : #BF0023;
+	text-decoration: underline;
+	font-size : 9pt;
+}		
+A.subCat9 {
+	color : #737373;
+	text-decoration: None;
+	font-size : 9pt;
+  }
+
+
+
+
+/* used on menu-level pages as subcategory descriptions */
+.subText {
+	color : #737373;
+	text-decoration: none;
+	font-size : 8pt;
+	font-style : italic;
+	font : italic;
+}
+/* blue text - like an H2 */
+/* used on menu-level pages as headings that are not links */
+.headerNoLink {
+	color: #5D6FC7;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+	font-weight : normal;
+  }
+
+  
+/* light gray text with white hover */
+/* used on front page as main headings */
+A.mainFront:Link  {
+		color : #E6E6E6;
+		text-decoration: none;
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 10pt;
+		font-weight : bold;
+  }
+A.mainFront:Visited  {
+		color : #E6E6E6;
+		text-decoration: none;
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 10pt;
+		font-weight : bold;
+  }
+A.mainFront:Hover  { 
+		color : #E6E6E6;
+		text-decoration: underline; 
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 10pt;
+		font-weight : bold;
+		}
+A.mainFront  {
+		color : #E6E6E6;
+		text-decoration: none;
+		font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size : 10pt;
+		font-weight : bold;
+  }
+
+  
+/* for table layouts */
+/* creates gray TD underline and dark gray link with red hover */
+.subLines A:Link {
+	color : #4D4D4D;
+	text-decoration: none;
+	font-size : 8pt;
+}
+.subLines A:Visited {
+	color : #4D4D4D;
+	text-decoration: none;
+	font-size : 8pt;
+}
+.subLines A:Hover  { 
+		color : #BF0023;
+		text-decoration: none; 
+		font-size : 8pt;
+}
+.subLines A {
+	color : #4D4D4D;
+	text-decoration: none;
+	font-size : 8pt;
+}
+.subLines {
+	border-bottom-width : 1px;
+	border-top-width : 0px;
+	border-right-width : 0px;
+	border-left-width : 0px;
+	border-color : #C6C8D3;
+	border-style : solid;
+}	
+
+
+
+/* dark gray link with no hover differences */
+/* used on front page for Information For section */
+.infoBorder A:Link {
+	color : #1E2A63;
+	text-decoration: None;
+	font-size : 8pt;
+   }
+.infoBorder A:Visited {
+	color : #1E2A63;
+	text-decoration: None;
+	font-size : 8pt;
+   }
+.infoBorder A:Hover  {
+	color : #BF0023;
+	text-decoration: None;
+	font-size : 8pt;
+	}
+.infoBorder A{
+	color : #1E2A63;
+	text-decoration: None;
+	font-size : 8pt;
+   }
+.infoBorder TD {
+	border-bottom-width : 1px;
+	border-top-width : 0px;
+	border-right-width : 0px;
+	border-left-width : 0px;
+	border-color :  #960019;
+	border-style : solid;
+}
+.infoBorder {
+	border-bottom-width : 0px;
+	border-top-width : 1px;
+	border-right-width : 1px;
+	border-left-width : 1px;
+	border-color :  #960019;
+	border-style : solid;
+}
+
+
+/* Unordered list with right-facing blue arrows for bullets */
+ul.arrowright_dkblue {
+  list-style-image:url(../images/arrowright_dkblue.gif);
+}
+
+/* Unordered list with orange dots for bullets */
+ul.dot_orange {
+  list-style-image:url(../images/dot_orange.gif);
+}
+
+/* Flush-left aligned unordered list with right-facing blue arrows for bullets*/
+ul.fl_arrowright_dkblue {
+  margin-left:0;
+  padding-left:1.5em;
+  list-style-image:url(../images/arrowright_dkblue.gif);
+}
+
+/* Flush-left aligned unordered list with orange dots for bullets */
+ul.fl_dot_orange {
+  margin-left:0;
+  padding-left:1.5em;
+  list-style-image:url(../images/dot_orange.gif);
+}

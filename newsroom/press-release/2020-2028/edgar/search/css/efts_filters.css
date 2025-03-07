@@ -1,0 +1,59 @@
+.filters {
+	margin-bottom: 0.5rem;
+	display: none;
+}
+
+.filter {
+  background: #ecf2f7;
+  border: 1px solid transparent;
+  margin: 0 0 0.5rem;
+  vertical-align: middle;
+  color: #434343;
+  -webkit-transition: border-color .2s;
+  -moz-transition: border-color .2s;
+  -ms-transition: border-color .2s;
+  -o-transition: border-color .2s;
+  transition: border-color .2s;
+}
+
+.filter:focus, .filter:hover {
+  border-color: #296da6;
+  background: #ecf2f7;
+}
+
+.filter .filter-type {
+  font-weight: 500;
+}
+
+.filter .fa {
+  color: #9cadbc;
+  padding-left: 3px;
+}
+
+.clear-filter {
+  color: #296da6;
+  text-decoration: none;
+  padding: .5rem;
+  border-bottom: 1px solid transparent;
+  -webkit-transition: border-color .2s;
+  -moz-transition: border-color .2s;
+  -ms-transition: border-color .2s;
+  -o-transition: border-color .2s;
+  transition: border-color .2s;
+}
+.clear-filter:hover, .clear-filter:focus {
+  border-bottom-color: #296da6;
+}
+
+.btn-filter {
+  background: #ecf2f7;
+  border: 1px solid transparent;
+  margin: 0 0 0.5rem;
+  vertical-align: middle;
+  color: #434343;
+  -webkit-transition: border-color .2s;
+  -moz-transition: border-color .2s;
+  -ms-transition: border-color .2s;
+  -o-transition: border-color .2s;
+  transition: border-color .2s;
+}

@@ -1,0 +1,120 @@
+@media (max-width: 1200px) {
+  h2, .h2 {
+    font-size: calc(1.1rem + 0.6vw) ;
+  }
+  
+  h4, .h4 {
+    font-size: calc(1rem + 0.4vw) ;
+  }
+  
+  h5, .h5 {
+    font-size: calc(1rem + 0.3vw) ;
+  }
+}
+
+@media (max-width: 399px) {
+  #entity-short-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: 0.5rem ;
+    font-weight: 500;
+  }
+  #entity-short-form:-ms-input-placeholder { /* IE 10+ */
+    font-size: 0.5rem ;
+    font-weight: 500;
+  }
+  #entity-short-form::-moz-placeholder { /* Firefox 19+ */
+    font-size: 0.5rem ;
+    font-weight: 500;
+  }
+  
+  #keywords::-webkit-input-placeholder, 
+  #entity-full-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: calc(0.6rem + 0.1vw + 0.1vh) ;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 767px) {
+  #keywords::-webkit-input-placeholder, 
+  #entity-full-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: calc(0.6rem + 0.1vw + 0.1vh);
+  }
+}
+
+@media (min-width: 400px) and (max-width: 576px) and (orientation: portrait){
+  #entity-short-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: calc(0.4rem + 0.3vw + 0.1vh);
+    font-weight: 700;
+  }
+  #entity-short-form:-ms-input-placeholder { /* IE 10+ */
+    font-size: calc(0.4rem + 0.3vw + 0.1vh);
+    font-weight: 700;
+  }
+  #entity-short-form::-moz-placeholder { /* Firefox 19+ */
+    font-size: calc(0.4rem + 0.3vw + 0.1vh) ;
+    font-weight: 700;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 1000px) and (orientation: portrait){
+  #entity-short-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: calc(0.5rem + 0.3vw + 0.1vh);
+  }
+  
+  #entity-short-form:-ms-input-placeholder { /* IE 10+ */
+    font-size: calc(0.5rem + 0.3vw + 0.1vh);
+  }
+  
+  #entity-short-form::-moz-placeholder { /* Firefox 19+ */
+    font-size: calc(0.5rem + 0.3vw + 0.1vh);
+  }
+}
+
+
+@media (min-width: 400px) and (max-width: 576px) and (orientation: landscape){
+  #entity-short-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: calc(0.55rem + 0.1vw + 0.1vh);
+    font-weight: 500;
+  }
+  #entity-short-form:-ms-input-placeholder { /* IE 10+ */
+    font-size: calc(0.55rem + 0.1vw + 0.1vh);
+    font-weight: 500;
+  }
+  #entity-short-form::-moz-placeholder  { /* Firefox 19+ */
+    font-size: calc(0.55rem + 0.1vw + 0.1vh);
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) and (orientation: landscape){
+  #entity-short-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: calc(0.43rem + 0.1vw + 0.1vh);
+    font-weight: 500;
+  }
+  #entity-short-form:-ms-input-placeholder { /* IE 10+ */
+    font-size: calc(0.43rem + 0.1vw + 0.1vh);
+    font-weight: 500;
+  }
+  #entity-short-form::-moz-placeholder  { /* Firefox 19+ */
+    font-size: calc(0.43rem + 0.1vw + 0.1vh);
+    font-weight: 500;
+  }
+    
+  #clear {
+    margin-top: 4px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1000px) and (orientation: landscape){
+  #entity-short-form::-webkit-input-placeholder { /* Chrome/Safari */
+    font-size: calc(0.6rem + 0.1vw + 0.1vh);
+  }
+  #entity-short-form:-ms-input-placeholder { /* IE 10+ */
+    font-size: calc(0.6rem + 0.1vw + 0.1vh);
+  }
+  #entity-short-form::-moz-placeholder { /* Firefox 19+ */
+    font-size: calc(0.6rem + 0.1vw + 0.1vh);
+  }
+}
+
+/** Disable clear button for IE and Edge Input fields */
+input::-ms-clear { display: none; }

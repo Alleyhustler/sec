@@ -1,0 +1,413 @@
+<SEC-DOCUMENT>0001140361-25-007646.txt : 20250307
+<SEC-HEADER>0001140361-25-007646.hdr.sgml : 20250307
+<ACCEPTANCE-DATETIME>20250307165847
+ACCESSION NUMBER:		0001140361-25-007646
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20250307
+FILED AS OF DATE:		20250307
+DATE AS OF CHANGE:		20250307
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Global Atlantic Financial Group Ltd
+		CENTRAL INDEX KEY:			0001576146
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23474
+		FILM NUMBER:		25720952
+
+	BUSINESS ADDRESS:	
+		STREET 1:		31 VICTORIA PLACE
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 10
+		BUSINESS PHONE:		441-295-5485
+
+	MAIL ADDRESS:	
+		STREET 1:		31 VICTORIA PLACE
+		CITY:			HAMILTON
+		STATE:			D0
+		ZIP:			HM 10
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Global Atlantic Financial Group
+		DATE OF NAME CHANGE:	20130507
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KKR Group Assets GP LLC
+		CENTRAL INDEX KEY:			0001842443
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23474
+		FILM NUMBER:		25720948
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		MAGNOLIA PARENT LLC
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Global Atlantic Financial Group LLC
+		CENTRAL INDEX KEY:			0001837034
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23474
+		FILM NUMBER:		25720951
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		9 WEST 57TH STREET, SUITE 4200
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+		BUSINESS PHONE:		212-230-9742
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		9 WEST 57TH STREET, SUITE 4200
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	Magnolia Parent LLC
+		DATE OF NAME CHANGE:	20201217
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Global Atlantic Ltd (Delaware)
+		CENTRAL INDEX KEY:			0002057671
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23474
+		FILM NUMBER:		25720953
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KKR & CO. INC.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		212-750-8300
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KKR & CO. INC.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KKR Group Assets Holdings L.P.
+		CENTRAL INDEX KEY:			0001842452
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			D0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23474
+		FILM NUMBER:		25720949
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		MAGNOLIA PARENT LLC
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KKR Magnolia Holdings LLC
+		CENTRAL INDEX KEY:			0001842456
+		ORGANIZATION NAME:           	
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-23474
+		FILM NUMBER:		25720950
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		MAGNOLIA PARENT LLC
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O KOHLBERG KRAVIS ROBERTS & CO. L.P.
+		STREET 2:		30 HUDSON YARDS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			KKR Credit Opportunities Portfolio
+		CENTRAL INDEX KEY:			0001787621
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 CALIFORNIA STREET, 50TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		415-315-3620
+
+	MAIL ADDRESS:	
+		STREET 1:		555 CALIFORNIA STREET, 50TH FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>form3.xml
+<DESCRIPTION>FORM 3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2025-03-07</periodOfReport>
+
+    <noSecuritiesOwned>0</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0001787621</issuerCik>
+        <issuerName>KKR Credit Opportunities Portfolio</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002057671</rptOwnerCik>
+            <rptOwnerName>Global Atlantic Ltd (Delaware)</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 HUDSON YARDS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001576146</rptOwnerCik>
+            <rptOwnerName>Global Atlantic Financial Group Ltd</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 HUDSON YARDS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001837034</rptOwnerCik>
+            <rptOwnerName>Global Atlantic Financial Group LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 HUDSON YARDS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001842456</rptOwnerCik>
+            <rptOwnerName>KKR Magnolia Holdings LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 HUDSON YARDS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001842452</rptOwnerCik>
+            <rptOwnerName>KKR Group Assets Holdings L.P.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 HUDSON YARDS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001842443</rptOwnerCik>
+            <rptOwnerName>KKR Group Assets GP LLC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>30 HUDSON YARDS</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10001</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isTenPercentOwner>true</isTenPercentOwner>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Class I Shares of Beneficial Interest</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>4000000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See footnotes</value>
+                    <footnoteId id="F1"/>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">On March 7, 2025, in connection with an internal reorganization (the &quot;Reorganization&quot;), KKR Financial Holdings LLC transferred all of its Class I shares of beneficial interest, par value $0.001 per share of the Issuer to Global Atlantic Limited (Delaware), an indirect, wholly owned subsidiary of KKR Group Partnership L.P. for no consideration. The Reorganization did not involve any purchase or sale of securities of the Issuer.</footnote>
+        <footnote id="F2">Global Atlantic Limited (Delaware) is wholly owned by Global Atlantic Financial Group Limited, which is wholly owned by The Global Atlantic Financial Group LLC. KKR Magnolia Holdings LLC is the sole member of The Global Atlantic Financial Group LLC. KKR Group Assets Holdings L.P. is the sole member of KKR Magnolia Holdings LLC. KKR Group Assets GP LLC is the general partner of KKR Group Assets Holdings L.P. KKR Group Partnership L.P. is the sole member of KKR Group Assets GP LLC. KKR Group Holdings Corp. is the general partner of KKR Group Partnership L.P. KKR Group Co. Inc. is the sole shareholder of KKR Group Holdings Corp. KKR &amp; Co. Inc. is the sole shareholder of KKR Group Co. Inc. KKR Management LLP is the Series I preferred stockholder of KKR &amp; Co. Inc. Messrs. Henry R. Kravis and George R. Roberts are the founding partners of KKR Management LLP.</footnote>
+        <footnote id="F3">Each of the Reporting Persons disclaims beneficial ownership of the securities reported herein, except to the extent of such Reporting Person's pecuniary interest therein. The filing of this statement shall not be deemed to be an admission that, for purposes of Section 16 of the Securities Exchange Act of 1934 or otherwise, the Reporting Persons are the beneficial owners of any securities reported herein.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>GLOBAL ATLANTIC LIMITED (DELAWARE), By: /s/ Gary Silber, Name: Gary Silber, Title: Managing Director</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>GLOBAL ATLANTIC FINANCIAL GROUP LIMITED, By: /s/ Gary Silber, Name: Gary Silber, Title: Managing Director</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>GLOBAL ATLANTIC FINANCIAL GROUP LLC, By: /s/ Gary Silber, Name: Name: Gary Silber, Title: Managing Director</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>KKR MAGNOLIA HOLDINGS LLC, By: /s/ Christopher Lee, Name: Christopher Lee, Title: Assistant Secretary</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>KKR GROUP ASSETS HOLDINGS L.P., By: /s/ Christopher Lee, Name: Christopher Lee, Title: Secretary</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>KKR GROUP ASSETS GP LLC, By: /s/ Christopher Lee, Name: Christopher Lee, Title: Secretary</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

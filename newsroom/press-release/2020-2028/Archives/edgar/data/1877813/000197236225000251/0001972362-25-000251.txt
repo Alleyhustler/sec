@@ -1,0 +1,154 @@
+<SEC-DOCUMENT>0001972362-25-000251.txt : 20250307
+<SEC-HEADER>0001972362-25-000251.hdr.sgml : 20250307
+<ACCEPTANCE-DATETIME>20250307165942
+ACCESSION NUMBER:		0001972362-25-000251
+CONFORMED SUBMISSION TYPE:	144
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20250307
+DATE AS OF CHANGE:		20250307
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Offerpad Solutions Inc.
+		CENTRAL INDEX KEY:			0001825024
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE AGENTS & MANAGERS (FOR OTHERS) [6531]
+		ORGANIZATION NAME:           	05 Real Estate & Construction
+		IRS NUMBER:				852800538
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		144
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	001-39641
+		FILM NUMBER:		25720964
+
+	BUSINESS ADDRESS:	
+		STREET 1:		433 S FARMER AVE
+		STREET 2:		SUITE 500
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85281
+		BUSINESS PHONE:		(844) 388-4539
+
+	MAIL ADDRESS:	
+		STREET 1:		433 S FARMER AVE
+		STREET 2:		SUITE 500
+		CITY:			TEMPE
+		STATE:			AZ
+		ZIP:			85281
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Supernova Partners Acquisition Company, Inc.
+		DATE OF NAME CHANGE:	20200916
+
+REPORTING-OWNER:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aronovitch Benjamin Adam
+		CENTRAL INDEX KEY:			0001877813
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		144
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O OFFERPAD SOLUTIONS INC.
+		STREET 2:		2150 E GERMAN ROAD, SUITE 1
+		CITY:			CHANDLER
+		STATE:			AZ
+		ZIP:			85286
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>144
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/ownership" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>144</submissionType>
+    <filerInfo>
+      <filer>
+        <filerCredentials>
+          <cik>0001877813</cik>
+          <ccc>XXXXXXXX</ccc>
+        </filerCredentials>
+      </filer>
+      <liveTestFlag>LIVE</liveTestFlag>
+
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <issuerInfo>
+      <issuerCik>0001825024</issuerCik>
+      <issuerName>Offerpad Solutions Inc.</issuerName>
+      <secFileNumber>001-39641</secFileNumber>
+      <issuerAddress>
+        <com:street1>433 S FARMER AVE</com:street1>
+        <com:street2>SUITE 500</com:street2>
+        <com:city>TEMPE</com:city>
+        <com:stateOrCountry>AZ</com:stateOrCountry>
+        <com:zipCode>85281</com:zipCode>
+      </issuerAddress>
+      <issuerContactPhone>(844) 388-4539</issuerContactPhone>
+      <nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>Aronovitch Benjamin Adam</nameOfPersonForWhoseAccountTheSecuritiesAreToBeSold>
+      <relationshipsToIssuer>
+        <relationshipToIssuer>Officer</relationshipToIssuer>
+      </relationshipsToIssuer>
+    </issuerInfo>
+    <securitiesInformation>
+      <securitiesClassTitle>Common</securitiesClassTitle>
+      <brokerOrMarketmakerDetails>
+        <name>Morgan Stanley Smith Barney LLC Executive Services</name>
+        <address>
+          <com:street1>200 W Civic Center Dr - 4th Floor</com:street1>
+          <com:city>Sandy</com:city>
+          <com:stateOrCountry>UT</com:stateOrCountry>
+          <com:zipCode>84070</com:zipCode>
+        </address>
+      </brokerOrMarketmakerDetails>
+      <noOfUnitsSold>5000</noOfUnitsSold>
+      <aggregateMarketValue>9650.00</aggregateMarketValue>
+      <noOfUnitsOutstanding>27400000</noOfUnitsOutstanding>
+      <approxSaleDate>03/07/2025</approxSaleDate>
+      <securitiesExchangeName>NYSE</securitiesExchangeName>
+    </securitiesInformation>
+    <securitiesToBeSold>
+      <securitiesClassTitle>COMMON</securitiesClassTitle>
+      <acquiredDate>02/25/2025</acquiredDate>
+      <natureOfAcquisitionTransaction>RESTRICTED STOCK</natureOfAcquisitionTransaction>
+      <nameOfPersonfromWhomAcquired>ISSUER</nameOfPersonfromWhomAcquired>
+      <isGiftTransaction>N</isGiftTransaction>
+      <amountOfSecuritiesAcquired>5000</amountOfSecuritiesAcquired>
+      <paymentDate>02/25/2025</paymentDate>
+      <natureOfPayment>COMPENSATION</natureOfPayment>
+    </securitiesToBeSold>
+    <nothingToReportFlagOnSecuritiesSoldInPast3Months>N</nothingToReportFlagOnSecuritiesSoldInPast3Months>
+    <securitiesSoldInPast3Months>
+      <sellerDetails>
+        <name>BEN ARONOVITCH</name>
+        <address>
+          <com:street1>433 S. FARMER AVENUE SUITE 500</com:street1>
+          <com:city>TEMPE</com:city>
+          <com:stateOrCountry>AZ</com:stateOrCountry>
+          <com:zipCode>85281</com:zipCode>
+        </address>
+      </sellerDetails>
+      <securitiesClassTitle>RESTRICTED STOCK</securitiesClassTitle>
+      <saleDate>03/05/2025</saleDate>
+      <amountOfSecuritiesSold>10033</amountOfSecuritiesSold>
+      <grossProceeds>18002.31</grossProceeds>
+    </securitiesSoldInPast3Months>
+    <noticeSignature>
+      <noticeDate>03/07/2025</noticeDate>
+      <signature>/s/ Benjamin Aronovitch</signature>
+    </noticeSignature>
+  </formData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,166 @@
+<SEC-DOCUMENT>0000950170-25-035645.txt : 20250307
+<SEC-HEADER>0000950170-25-035645.hdr.sgml : 20250307
+<ACCEPTANCE-DATETIME>20250307165944
+ACCESSION NUMBER:		0000950170-25-035645
+CONFORMED SUBMISSION TYPE:	3
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20250307
+FILED AS OF DATE:		20250307
+DATE AS OF CHANGE:		20250307
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Davidson Peter Andrew
+		CENTRAL INDEX KEY:			0002055226
+		ORGANIZATION NAME:           	
+
+	FILING VALUES:
+		FORM TYPE:		3
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	811-24002
+		FILM NUMBER:		25720965
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TCW ASSET BACKED FINANCE MANAGEMENT
+		STREET 2:		515 SOUTH FLOWER STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TCW Private Asset Income Fund
+		CENTRAL INDEX KEY:			0002036272
+		ORGANIZATION NAME:           	
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		515 SOUTH FLOWER STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+		BUSINESS PHONE:		(833) 996-2518
+
+	MAIL ADDRESS:	
+		STREET 1:		515 SOUTH FLOWER STREET
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90071
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>3
+<SEQUENCE>1
+<FILENAME>ownership.xml
+<DESCRIPTION>3
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0206</schemaVersion>
+
+    <documentType>3</documentType>
+
+    <periodOfReport>2025-03-07</periodOfReport>
+
+    <noSecuritiesOwned>1</noSecuritiesOwned>
+
+    <issuer>
+        <issuerCik>0002036272</issuerCik>
+        <issuerName>TCW Private Asset Income Fund</issuerName>
+        <issuerTradingSymbol>NONE</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0002055226</rptOwnerCik>
+            <rptOwnerName>Davidson Peter Andrew</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>515 SOUTH FLOWER STREET</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>LOS ANGELES</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>90071</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>false</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>Vice President and Secretary</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <remarks>Exhibit List - Exhibit 24.1 - Power of Attorney</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Peter Davidson</signatureName>
+        <signatureDate>2025-03-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-24.1
+<SEQUENCE>2
+<FILENAME>ck0002036272-ex24_1.htm
+<DESCRIPTION>EX-24.1
+<TEXT>
+<html>
+ <head>
+  <title>EX-24.1</title>
+ </head>
+ <body style="padding:8px;margin:auto!important;">
+  <div style="z-index:-3;min-height:1in;position:relative;"></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">POWER OF ATTORNEY</font></p>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">KNOW ALL BY THESE PRESENTS, that the undersigned hereby makes, constitutes and appoints Peter Davidson and Andrew Bowden of TCW Asset Backed Finance Management Company LLC and Pamela Chen, Nick Tarnowski, Ethan Miner and Darrell Mitchiner of Kirkland &amp; Ellis, signing singly, and with full power of substitution, as each of the undersigned's true and lawful attorney&#x2011;in&#x2011;fact to:</font></p>
+  <div class="item-list-element-wrapper" style="margin-left:3.333%;display:flex;margin-top:0;justify-content:flex-start;align-items:baseline;margin-bottom:12pt;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(i)</font><div style="width:100%;display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">prepare and execute in the undersigned's name and on the undersigned's behalf, and submit to the U.S. Securities and Exchange Commission (the &#34;</font><font style="color:#000000;white-space:pre-wrap;text-decoration:underline solid;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">SEC</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#34;) a Form ID, including amendments thereto, and any other documents necessary or appropriate to obtain codes and passwords enabling the undersigned to make electronic filings with the SEC; </font></div></div>
+  <div class="item-list-element-wrapper" style="margin-left:3.333%;display:flex;margin-top:0;justify-content:flex-start;align-items:baseline;margin-bottom:12pt;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(ii)</font><div style="width:100%;display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">prepare and execute in the undersigned's name and on the undersigned's behalf Forms 3, 4 and 5, and amendments thereto, and any successor forms adopted by the SEC, in accordance with Section 16 of the Securities Exchange Act of 1934 and the rules and regulations promulgated thereunder, as amended from time to time (the &#34;Exchange Act&#34;);</font></div></div>
+  <div class="item-list-element-wrapper" style="margin-left:3.333%;display:flex;margin-top:0;justify-content:flex-start;align-items:baseline;margin-bottom:12pt;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(iii)</font><div style="width:100%;display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">do and perform any and all acts for and on behalf of the undersigned that may be necessary or desirable to prepare, complete and execute any such Form 3, 4 or 5, or Form ID or amendment thereto, and any successor forms adopted by the SEC, and timely file such forms with the SEC or such States; and</font></div></div>
+  <div class="item-list-element-wrapper" style="margin-left:3.333%;display:flex;margin-top:0;justify-content:flex-start;align-items:baseline;margin-bottom:12pt;min-width:3.333%;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:3.447919145106397%;word-break:keep-all;display:inline-flex;justify-content:flex-start;">(iv)</font><div style="width:100%;display:inline;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">take any other action of any type whatsoever in connection with the foregoing which, in the opinion of such attorney&#x2011;in&#x2011;fact, may be of benefit to, in the best interest of, or legally required by, the undersigned, it being understood that the documents executed by such attorney&#x2011;in&#x2011;fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such terms and conditions as such attorney&#x2011;in&#x2011;fact may approve in such attorney&#x2011;in&#x2011;fact's discretion.</font></div></div>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">The undersigned hereby grants to such attorney&#x2011;in&#x2011;fact full power and authority to do and perform any and every act and thing whatsoever requisite, necessary, or proper to be done in the exercise of any of the rights and powers herein granted, as fully to all intents and purposes as the undersigned might or could do if personally present, with full power of substitution or revocation, hereby ratifying and confirming all that such attorney&#x2011;in&#x2011;fact's substitute or substitutes, shall lawfully do or cause to be done by virtue of this power of attorney and the rights and powers herein granted.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">  </font></p>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">The undersigned hereby acknowledges that:  (a) the foregoing attorneys-in-fact are serving in such capacity at the request of the undersigned; (b) this Power of Attorney authorizes, but does not require, each such attorney-in-fact to act in their discretion on information provided to such attorney-in-fact without independent verification of such information; (c) any documents prepared and/or executed by any attorney-in-fact on behalf of the undersigned pursuant to this Power of Attorney shall be in such form and shall contain such information and disclosure as such attorney-in-fact, in his sole discretion, deems necessary or advisable; (d) no attorney-in-fact assumes (i) any liability for the undersigned's responsibility to comply with the requirements of the Exchange Act, (ii) any liability of the undersigned for any failure to comply with such requirements or (iii) any obligation or liability of the undersigned for profit disgorgement under Section 16(b) of the Exchange Act; and (e) this Power of Attorney does not relieve the undersigned from responsibility for compliance with the undersigned's obligations under the Exchange Act, including, without limitation, the reporting requirements under Section 16 of the Exchange Act.</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;"> </font></p>
+  <p style="text-indent:6.667%;font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">This Power of Attorney shall remain in full force and effect until the undersigned is no longer required to file Forms 3, 4 and 5, unless earlier revoked by the undersigned in a signed writing delivered to the foregoing attorney&#x2011;in&#x2011;fact.</font></p>
+  <div class="page-border-spacing"><div style="z-index:-3;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+  <div style="z-index:-3;min-height:1in;position:relative;"></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">[</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-style:italic;font-kerning:none;min-width:fit-content;">Signature page to follow</font><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">]</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:center;"><font style="color:#000000;white-space:pre-wrap;font-size:11pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">*  *  *  *  *</font></p>
+  <div class="page-border-spacing"><div style="z-index:-3;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+  <div style="z-index:-3;min-height:1in;position:relative;"></div>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">IN WITNESS WHEREOF, the undersigned has caused this Power of Attorney to be executed as of this 23rd day of January, 2025.</font></p>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:12pt;text-align:justify;"><font style="white-space:pre-wrap;font-size:12pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p>
+  <table style="margin-left:auto;border-spacing:0;table-layout:auto;width:50.0%;border-collapse:separate;">
+   <tr style="visibility:collapse;">
+    <td style="width:58%;box-sizing:content-box;"></td>
+    <td style="width:42%;box-sizing:content-box;"></td>
+   </tr>
+   <tr style="height:12pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-bottom:0in;padding-right:0.01in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-weight:bold;font-kerning:none;min-width:fit-content;">PETER DAVIDSON</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-bottom:0in;padding-right:0.01in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-kerning:none;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="height:12pt;word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-bottom:0in;border-bottom:0.5pt solid;padding-right:0.01in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="color:#000000;white-space:pre-wrap;font-kerning:none;min-width:fit-content;">/s/ Peter Davidson</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-bottom:0in;border-bottom:0.5pt solid #ffffff03;padding-right:0.01in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-kerning:none;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+   <tr style="word-break:break-word;white-space:pre-wrap;">
+    <td style="padding-top:0.01in;vertical-align:top;padding-bottom:0in;padding-right:0.01in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-kerning:none;min-width:fit-content;">&#160;</font></p></td>
+    <td style="padding-top:0.01in;vertical-align:top;padding-bottom:0in;padding-right:0.01in;"><p style="font-size:12pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-kerning:none;min-width:fit-content;">&#160;</font></p></td>
+   </tr>
+  </table>
+  <p style="font-size:10pt;margin-top:0;font-family:Times New Roman;margin-bottom:0;text-align:left;"><font style="white-space:pre-wrap;font-size:10pt;font-family:Times New Roman;font-kerning:none;min-width:fit-content;">&#160;</font></p>
+  <div class="page-border-spacing"><div style="z-index:-3;flex-direction:column;display:flex;min-height:1in;justify-content:flex-end;position:relative;"></div></div>
+  <hr style="margin-inline-start:auto;margin-inline-end:auto;page-break-after:always;">
+ </body>
+</html>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
